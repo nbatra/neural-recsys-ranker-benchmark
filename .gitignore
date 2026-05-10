@@ -1,0 +1,18 @@
+# Large data files (regenerated from sibling project models)
+predictions.npz
+test_data.npz
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
