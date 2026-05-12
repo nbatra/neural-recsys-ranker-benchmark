@@ -4,8 +4,6 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org)
 [![License](https://img.shields.io/badge/License-Educational-green)](LICENSE)
 
-**Keywords:** `DLRM` `DCN-v2` `XGBoost LambdaMART` `Model Comparison` `Recommendation Ranking` `Benjamini-Hochberg` `FDR Correction` `Bootstrap CI` `Cohen's d` `Latency Benchmarking` `MovieLens` `RecSys`
-
 > A lightweight comparison project that loads pre-computed results from [DLRM_Recommendation](https://github.com/nbatra/dlrm-recsys) and [DCN-v2_Recommendation](https://github.com/nbatra/dcn-v2-recsys), performing a unified three-way statistical comparison of all re-ranking models.
 
 ## Key Results
@@ -102,3 +100,10 @@ Built by **Nipun Batra**
 ## License
 
 This project is released for educational and portfolio purposes. The MovieLens 25M dataset is provided by [GroupLens Research](https://grouplens.org/) under their own terms of use.
+
+<details>
+<summary>Keywords</summary>
+
+DLRM, DCN-v2, Deep & Cross Network, Deep Learning Recommendation Model, XGBoost LambdaMART, Learning to Rank, Model Comparison, Recommendation Ranking, Neural Ranking, Re-Ranking, Feature Interactions, Dot-Product Architecture, Cross Network, Benjamini-Hochberg, FDR Correction, Bootstrap Confidence Intervals, Cohen's d, Effect Size, Statistical Testing, A/B Testing, Latency Benchmarking, MovieLens 25M, RecSys, Production ML, Inference Latency, NDCG, Ranking Metrics
+
+</details>
